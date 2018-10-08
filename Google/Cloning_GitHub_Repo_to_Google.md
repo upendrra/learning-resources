@@ -4,7 +4,7 @@ It is easy to clone a Github repo with Git.
 Step 1: Find the Github Repo and Get “Git” Link
 Find any Github repo to use.
 
-For instance: (https://github.com/wxs/keras-mnist-tutorial)
+For instance: https://github.com/wxs/keras-mnist-tutorial
 
 Clone or download > Copy the link!
 
