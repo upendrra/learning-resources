@@ -1,0 +1,3 @@
+# Informative Resources
+- [Google Colab Free Setup](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+- Download Configuration of fastai - Just go to your shell and “curl http://files.fast.ai/setup/paperspace 21 > fastai_script.sh”
