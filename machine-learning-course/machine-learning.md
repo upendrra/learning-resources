@@ -8,3 +8,8 @@
 
 5. [How To Become A Machine Learning Engineer: Learning Path](https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4)
 
+6. [Machine Learning Resource](https://www.ritchieng.com/machine-learning-resources/)
+
+7. [Hacker Earth - Machine Learning Resource](https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/)
+
+8. []()
