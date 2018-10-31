@@ -14,4 +14,6 @@
 
 6. [Learn Python for data Science](https://www.edureka.co/blog/learn-python-for-data-science/)
 
+7. [How Python f-stings work- new string formatting](https://hackernoon.com/a-closer-look-at-how-python-f-strings-work-f197736b3bdb)
+
 
